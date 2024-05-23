@@ -5,14 +5,20 @@ Hello! I'm Madhav Thakur, a passionate and dedicated full-stack developer specia
 🧑‍💻 About Me
 🌱 I’m currently enhancing my skills in Web Development  and cloud deployment.
 💬 Ask me about web development, JavaScript, or any technology-related topic.
+
 📫 How to reach me: madhavthakur1995@gmail.com
+
 ⚡ Fun fact: I enjoy playing chess and solving coding challenges.
+
 🔧 Technologies & Tools
+
 Frontend
+
 Languages: HTML5, CSS3, JavaScript, TypeScript
 Libraries/Frameworks: React, Redux, Bootstrap, Material-UI
 
 Backend
+
 Languages: JavaScript (ES6+), TypeScript
 Frameworks: Node.js, Express.js
 APIs: REST, GraphQL

@@ -36,6 +36,7 @@ Database: MongoDB
 Deployment: AWS
 
 
+
 Blog Platform
 A full-featured blogging platform with user authentication, rich text editor, and comments section.
 Frontend: React, Material-UI
